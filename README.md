@@ -1,3 +1,2 @@
 # Demo
-This is a demo code
-hello!
+Hello! This is a demo code.
